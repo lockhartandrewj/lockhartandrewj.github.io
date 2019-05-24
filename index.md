@@ -10,9 +10,10 @@ I am interested in **data**
  -  Processes to promote data quality
 
 I like the following data tools
-  - R
+  - R, especially Tidyverse
   - SQL
   - GitHub
+  - Markdown
 
 I also like some non data things like:
 
