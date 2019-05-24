@@ -17,7 +17,7 @@ I like the following data tools
 I also like some non data things like:
 
  - Science fiction
- - Fantasy
+ - Sword and sorcery
  - History
 
 
